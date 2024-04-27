@@ -9,8 +9,7 @@
 
 ### Before You Begin
     Before starting the assignment, be sure to complete the following steps:
-    •	Create a new repository for this project called athletic_sales_analysis. Do not add this homework assignment to an      
-        existing repository.
+    •	Create a new repository for this project called athletic_sales_analysis. Do not add this homework assignment to an existing repository.
     •	Clone the new repository to your computer.
     •	Push these changes to GitHub or GitLab.
 
